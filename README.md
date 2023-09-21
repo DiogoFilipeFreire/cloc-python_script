@@ -1,4 +1,4 @@
-# GitHub CLOC script
+# GitHub CLOC-Python script
 
 This script aims to automate the cloning of a GitHub repository, to count the lines of code (LOC) and propose the possibility of send the results via email. It verifies the availability of the needed elements (a package manager, git and CLOC) and, if one of those components is missing, it propose to install those package according to the OS.
 
